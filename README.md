@@ -1,6 +1,8 @@
 # Analyses and Data for the manuscript 'Antimicrobial effects, and selection for AMR by non-antibiotic drugs on bacterial communities' submitted to Microbiome
 DOI of paper XXX
+
 Sequence data is deposited at ENA XXX
+
 Plating and qPCR data is deposited here as part of this repository.
 
 # Outline 
