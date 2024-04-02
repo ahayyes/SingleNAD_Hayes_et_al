@@ -26,11 +26,11 @@ There are three sets of qPCR results (i.e. Diclofenac_qPCR etc.). These results 
 
 **ARG Data**
 
-The outputs from ARGs-OAP are deposited here as text files, with outputs of antibiotic class abundnaces, and individual gene abundances in nested folders for each NAD. 
+The outputs from [ARGs-OAP](https://github.com/xinehc/ARGs_OAP) are deposited here as text files, with outputs of antibiotic class abundnaces, and individual gene abundances in nested folders for each NAD. 
 There are also three datasets of transposed dataframes (i.e. Diclofenac_ARG Transposed Dataframe). These data contain the transposed dataframes that need to be read into R to be able to do NMDS plots. These dataframes were created by reading the dataframe created from the ARG analysis scripts (e.g. XXX), and transposing them in Excel. 
 
 **BMRG Data**
-The outputs from BacMet are deposited here as text files. Again, there are three datasets of transposed BMRG datasets to be read into R to make the NMDS. These dataframes were created by reading the dataframe created in R from the BMRG analysis scripts, and then transposing them into Excel.
+The outputs from [BacMet](http://bacmet.biomedicine.gu.se/) are deposited here as text files. Again, there are three datasets of transposed BMRG datasets to be read into R to make the NMDS. These dataframes were created by reading the dataframe created in R from the BMRG analysis scripts, and then transposing them into Excel.
 
 **Taxonomy Data**
-The outputs from MetaPhlAn 2.0 are deposited here as text files. 
+The outputs from [MetaPhlAn 2.0](https://github.com/biobakery/MetaPhlAn/wiki/MetaPhlAn2) are deposited here as text files. 
