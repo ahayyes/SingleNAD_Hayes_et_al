@@ -1,4 +1,4 @@
-# Analyses and Data for the manuscript 'Antimicrobial effects, and selection for AMR by non-antibiotic drugs on bacterial communities' submitted to Microbiome
+![image](https://github.com/ahayyes/Hayes_et_al_2024/assets/67584488/8852db3b-524d-4f42-9a5f-ba8b304c8495)# Analyses and Data for the manuscript 'Antimicrobial effects, and selection for AMR by non-antibiotic drugs on bacterial communities' submitted to Microbiome
 DOI of paper XXX
 
 Sequence data is deposited at ENA - Accession Number PRJEB74464 DOI 
@@ -23,6 +23,10 @@ Full results of the plating experiment. Community was exposed to diclofenac, met
 **qPCR Data**
 
 There are three sets of qPCR results (i.e. Diclofenac_qPCR etc.). These results hold the day 0 (d0) and day 7 (d7) qPCR quantities for the four genes targeted - 16S _rRNA_, _intI1_, _cintI1_, and _sul1_
+
+**Note on the sequencing data**
+
+The diclofenac and 17-β-estradiol experiments were sequenced using NEB Ultra ll FS library prep, and the metformin experiment used a PCR free library prep. There is a set of inoculum sequenced using both library preps to account for any biases when comparing to the inoculum. The inoculum to be used with the diclofenac and 17-β-estradiol analyses are 'inoculum_r1_trimmed_r1, inoculum_r1_trimmed_r2' etc. The inoculum files to be used metformin anlayses are 'inocR1_R1_001, inocR1_R2_001' etc.
 
 **ARG Data**
 
