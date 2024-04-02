@@ -3,7 +3,7 @@ DOI of paper XXX
 
 Sequence data is deposited at ENA - Accession Number PRJEB74464 DOI 
 
-Plating and qPCR data is deposited here as part of this repository.
+All other data is deposited here as part of this repository.
 
 ##  Outline 
 This repository contains the datasets, analyses, and figures for the paper 'Antimicrobial effects, and selection for AMR by non-antibiotic drugs on bacterial communities'. The code present can recreate all figures and tables. The raw sequencing data for the metagenomics analyses are available at XXX. The code for running the bioinformatics pipelines (ARGs-OAP, Bacmet, MetaPhlAn) are not present here, but are available upon request. 
@@ -26,8 +26,11 @@ There are three sets of qPCR results (i.e. Diclofenac_qPCR etc.). These results 
 
 **ARG Data**
 
-There are three sets of datasets for these again, (i.e. Diclofenac_ARG Transposed Dataframe). These data contain the transposed dataframes that need to be read into R to be able to do NMDS plots. These dataframes were created by reading the dataframe created from the ARG analysis scripts (e.g. XXX), and transposing them in Excel. 
+The outputs from ARGs-OAP are deposited here as text files, with outputs of antibiotic class abundnaces, and individual gene abundances in nested folders for each NAD. 
+There are also three datasets of transposed dataframes (i.e. Diclofenac_ARG Transposed Dataframe). These data contain the transposed dataframes that need to be read into R to be able to do NMDS plots. These dataframes were created by reading the dataframe created from the ARG analysis scripts (e.g. XXX), and transposing them in Excel. 
 
 **BMRG Data**
+The outputs from BacMet are deposited here as text files. Again, there are three datasets of transposed BMRG datasets to be read into R to make the NMDS. These dataframes were created by reading the dataframe created in R from the BMRG analysis scripts, and then transposing them into Excel.
 
-Again, there are three sets of datasets of transposed BMRG datasets to be read into R to make the NMDS. These dataframes were created by reading the dataframe created in R from the BMRG analysis scripts, and then transposing them into Excel.
+**Taxonomy Data**
+The outputs from MetaPhlAn 2.0 are deposited here as text files. 
