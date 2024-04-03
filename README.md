@@ -26,7 +26,7 @@ There are three sets of qPCR results (i.e. Diclofenac_qPCR etc.). These results 
 
 **Note on the sequencing data**
 
-The diclofenac and 17-β-estradiol experiments were sequenced using NEB Ultra ll FS library prep, and the metformin experiment used a PCR free library prep. There is a set of inoculum sequenced using both library preps to account for any biases when comparing to the inoculum. The inoculum to be used with the diclofenac and 17-β-estradiol analyses are 'inoculum_r1_trimmed_r1, inoculum_r1_trimmed_r2' etc. The inoculum files to be used metformin anlayses are 'inocR1_R1_001, inocR1_R2_001' etc. The right inoculum pipeline output files are often contained in the NAD folder they should be used with. 
+The diclofenac and 17-β-estradiol experiments were sequenced using NEB Ultra ll FS library prep, and the metformin experiment used a PCR free library prep. There is a set of inoculum sequenced using both library preps to account for any biases when comparing to the inoculum. The inoculum to be used with the diclofenac and 17-β-estradiol analyses are 'inoculum_r1_trimmed_r1, inoculum_r1_trimmed_r2' etc. The inoculum files to be used metformin anlayses are 'inocR1_R1_001, inocR1_R2_001' etc. The right inoculum pipeline output files are often contained in the NAD folder they should be used with. There is a '16S Data.txt' file for diclofenac, metformin, and 17-beta-estradiol that was generated during the first step of the ARGs-OAP pipeline. This is used to normalise the BacMet data. 
 
 **ARG Data**
 
