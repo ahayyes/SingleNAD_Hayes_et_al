@@ -35,7 +35,7 @@ There are also three datasets of transposed dataframes (i.e. Diclofenac_ARG Tran
 
 **BMRG Data**
 
-The outputs from [BacMet](http://bacmet.biomedicine.gu.se/) are deposited here as text files. Again, there are three datasets of transposed BMRG datasets to be read into R to make the NMDS. These dataframes were created by reading the dataframe created in R from the BMRG analysis scripts, and then transposing them into Excel.
+There are three datasets of transposed BMRG datasets to be read into R to make the NMDS. These dataframes were created by reading the dataframe created in R from the BMRG analysis scripts, and then transposing them into Excel. There are also two files containing efflux related and plasmid related genes present in the BacMet database. These are used to subset the total hits.
 
 **Taxonomy Data**
 
