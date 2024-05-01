@@ -1,5 +1,5 @@
 # Analyses and Data for the manuscript 'Antimicrobial effects, and selection for AMR by non-antibiotic drugs on bacterial communities' submitted to Microbiome
-DOI of paper XXX
+DOI of paper on biorxiv [XXX](https://doi.org/10.1101/2024.04.23.590690)
 
 Sequence data is deposited at ENA - Accession Number PRJEB74464 DOI 
 
