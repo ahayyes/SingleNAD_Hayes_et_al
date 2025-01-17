@@ -27,3 +27,8 @@ There are three sets of qPCR results (i.e. Diclofenac_qPCR etc.). These results 
 **Note on the sequencing data**
 
 The diclofenac and 17-β-estradiol experiments were sequenced using NEB Ultra ll FS library prep, and the metformin experiment used a PCR free library prep. There is a set of inoculum sequenced using both library preps to account for any biases when comparing to the inoculum. The inoculum to be used with the diclofenac and 17-β-estradiol analyses are 'nad_inoculum_r1_R1, nad_inoculum_r1_R2' etc. The inoculum files to be used metformin anlayses are 'nad_inoc_r1_R1, nad_inoc_r1_R2' etc. 
+
+
+**Code**
+
+R Code for these analyses will be made available when the manuscript is published. 
