@@ -31,4 +31,4 @@ The diclofenac and 17-β-estradiol experiments were sequenced using NEB Ultra ll
 
 **Code**
 
-R Code for these analyses are found here. There is code to analyse the ARGs-OAP, MetaPhlAn, and BacMet pipeline outputs in R. There is also code to analyse the qPCR, growth curves and plating assays.
+R Code for these analyses are found here. There is code to analyse the ARGs-OAP, MetaPhlAn, and BacMet pipeline outputs in R. There is also code to analyse the qPCR, plating assays, and example code to analyse the growth curves.
