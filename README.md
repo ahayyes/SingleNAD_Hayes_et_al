@@ -1,4 +1,4 @@
-# Analyses and Data for the manuscript 'Antimicrobial effects, and selection for AMR by non-antibiotic drugs on bacterial communities' submitted to Environment International
+# Analyses and Data for the manuscript 'Antimicrobial effects, and selection for AMR by non-antibiotic drugs on bacterial communities' in Environment International
 DOI of paper on biorxiv (https://doi.org/10.1101/2024.04.23.590690)
 
 Sequence data is deposited at ENA - Accession Number PRJEB74464. 
